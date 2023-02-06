@@ -1,7 +1,9 @@
 ## RedeemScript:
 
 b.AddData(sig)
+
 b.AddData(secret)
+
 b.AddData(contract)
 
 ## plainredeemScript: 
